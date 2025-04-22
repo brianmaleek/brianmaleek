@@ -1,12 +1,12 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Brian Kin Maleek
-- <br>- 📚 Certificate : Coursera - Google Data Analyst Professional
-- <br>- 📚 Nanodegree : Udacity - Data Analyst<br>- 📚 Full Stack Developer: ALX FullStack Developer
-- <br>- 👀 I’m interested in math, data analytics, data science, AI, and machine learning
-- <br>- 🌱 I’m currently learning and practicing my data analyst skills every day through projects/case studies
-- <br>- 📚 Skills: Python, SQL, Tableau, Excel
-- <br>- 👯 I’m looking to collaborate on any data projects
-- <br>-⚡ Fun fact: I love watching DIY videos :)
+<br>- 📚 Certificate : Coursera - Google Data Analyst Professional
+<br>- 📚 Nanodegree : Udacity - Data Analyst<br>- 📚 Full Stack Developer: ALX FullStack Developer
+<br>- 👀 I’m interested in math, data analytics, data science, AI, and machine learning
+br>- 🌱 I’m currently learning and practicing my data analyst skills every day through projects/case studies
+<br>- 📚 Skills: Python, SQL, Tableau, Excel
+<br>- 👯 I’m looking to collaborate on any data projects
+<br>-⚡ Fun fact: I love watching DIY videos :)
 
 
 ## 🌐 Socials:
