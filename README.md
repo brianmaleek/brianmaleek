@@ -1,22 +1,17 @@
-💫 About Me:
-👋 Hi, I’m Brian Kin Maleek – a Business graduate with a focus in Accounting who decided spreadsheets weren’t exciting enough, so I dived into Data Analysis.
+# 💫 About Me
 
-📚 Certificates & Training:
-  - Google Data Analytics (Coursera)
-  - Data Analyst Nanodegree (Udacity)
-  - ALX Full Stack Developer
+- 👋 Hi, I’m **Brian Kin Maleek** – a Business graduate specialized in Accounting who decided spreadsheets needed more action, so I pivoted into Data Analysis.  
+- 📚 **Certificates & Training**:  
+  - Coursera – Google Data Analytics Professional Certificate  
+  - Udacity – Data Analyst Nanodegree  
+  - ALX – Full Stack Developer Program  
+- 👀 I'm interested in data analytics, AI, and machine learning – basically, tools that help uncover hidden stories in data.  
+- 😎 I also do mobile and web development – because it’s fun bringing ideas to life.  
+- 🌱 Currently sharpening my data analysis skills through hands-on projects and case studies.  
+- 🧰 **Skills**: Python, SQL, Tableau, Excel  
+- 👯 Looking to collaborate on data projects – especially ones that challenge me to grow.  
+- ⚡ **Fun fact**: I enjoy watching DIY videos... even if I rarely build anything after.
 
-👀 I'm interested in data analytics, AI, and machine learning – basically anything that makes me feel like I'm working with the future.
-
-🛠️ I also do web and mobile development because I like giving my ideas a home (on the internet).
-
-🌱 Currently learning and building up my data analysis skills through projects and case studies.
-
-💡 Skills: Python, SQL, Tableau, Excel
-
-👯 Open to collaborating on data projects – especially ones that involve cool ideas and good coffee.
-
-⚡ Fun fact: I’m a fan of DIY videos... even if I rarely attempt them.
 
 
 ## 🌐 Socials:
