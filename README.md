@@ -1,42 +1,42 @@
 # 💫 About Me
 
-- 👋 Hi, I’m **Brian Kin Maleek** – a Business graduate specialized in Accounting who decided spreadsheets needed more action, so I pivoted into Data Analysis.  
+- 👋 Hi, I’m **Brian Kin Maleek** – a Business Graduate specialized in Accounting who decided spreadsheets needed more action, so I pivoted into Data Analysis.  
 
-## 📊 Data Analytics Background
+## 📊 Data Analytics Background(Career)
 
 - 📚 **Certificates & Training**:  
-  - Coursera – Google Data Analytics Professional Certificate  
-  - Udacity – Data Analyst Nanodegree  
-  - ALX – Full Stack Developer Program  
+  - Udacity – Data Analyst Nanodegree   
 
-- 👀 I'm interested in data analytics, AI, and machine learning – basically, tools that help uncover hidden stories in data.  
-- 🌱 Currently sharpening my data analysis skills through hands-on projects and case studies.  
+- 👀 I'm interested in data analytics and AI – basically, tools that help uncover hidden stories in data.  
+- 🌱 Actively applying my knowledge through hands-on projects and case studies.  
 
-## 📊 Data Visualization & Reporting Skills
+## 📊 Data Analytics Journey
+- **Fueling My Skills:** Udacity Data Analyst Nanodegree
+- **Diving Deeper:** Actively applying my knowledge through hands-on projects and case studies.
+- **What Captivates Me:** The power of data analytics and AI to reveal hidden stories
 
-- **Tools**: Excel, Tableau, Power BI, Google Data Studio  
-- **Languages/Libraries**: Python (Matplotlib, Seaborn, Plotly), SQL  
-- **Strengths**:  
-  - Building clear and interactive dashboards  
-  - Designing visual reports for data-driven storytelling  
-  - Presenting insights using the right charts and visual elements  
+**My Data Toolkit:**
+- **Visualization & Reporting:** Excel, Tableau, Power BI, Google Data Studio
+- **Programming & Databases:** Python (Matplotlib, Seaborn, Plotly), SQL
+- **My Approach:** Crafting clear, interactive dashboards and compelling visual reports to drive data-informed decisions.
 
-- 👯 Looking to collaborate on data projects – especially ones that challenge me to grow.  
+- 👯 Keen to collaborate on data-centric projects that offer new learning opportunities!  
 
-## 📱 Web & Mobile Development (In Progress)
+## 📱 Web & Mobile Development (Hobby in Motion)
 
-- 😎 I'm currently developing my skills in building mobile and web applications.  
-- 🚀 **Future Goal**: To create impactful, user-friendly applications that solve real-world problems.  
+- 📚 **Certificates & Training**:
+  - ALX – Full Stack Developer Program   
+
+- 😎 **My Current Focus:** Developing skills in building user-friendly web and mobile applications.  
+- 🚀 **Future Vision:** Creating impactful applications that solve real-world problems. 
 - 🛠️ **Development Stack (Learning/Using)**:  
-  - **Languages**: JavaScript, Dart, HTML, CSS  
-  - **Frameworks & Tools**: React, Flutter, Node.js, Git, GitHub, Firebase, Figma, VS Code  
+  - **Languages**: HTML, CSS, Javascript, Kotlin, Swift, Dart,   
+  - **Frameworks & Tools**: Flutter, Swift, Node.js, Git, GitHub, SQL DB (postgres) React, React Native, Next Js 
 
-## ⚡ Fun Fact
+## ✨ Just for Fun
 
-- I enjoy watching DIY videos... even if I rarely build anything after.
-
-
-
+- You might find me watching DIY videos... even if the actual building part is still a work in progress!
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-k-b733a536) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/brian_maleek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maleekmalik@gmail.com) 
